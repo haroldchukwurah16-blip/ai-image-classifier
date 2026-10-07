@@ -1,1 +1,2 @@
 EE308 Git practice
+This change was made on GitHub
